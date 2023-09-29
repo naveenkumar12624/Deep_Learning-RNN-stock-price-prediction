@@ -25,7 +25,7 @@
 ### STEP 6: Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
-```
+```py
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
