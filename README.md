@@ -1,4 +1,4 @@
-# EXP-4: Stock Price Prediction
+# EXP-5: Stock Price Prediction
 ## AIM:
 
 ### To develop a Recurrent Neural Network model for stock price prediction.
